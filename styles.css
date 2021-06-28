@@ -11,9 +11,7 @@ html,body{
 }
 
 img{
-     max-width: 600px;
-     padding-left: 2rem;
-     padding-right: 2rem;
+     width: 70%;
 }
 hr{
     padding: 1rem 0rem ;
@@ -27,6 +25,7 @@ body{
     padding-left: 0rem ;
     padding-right: 1rem;
     text-align: center;
+
 }
 
 .container-center{
@@ -39,22 +38,22 @@ body{
 .link{
     box-sizing: border-box;
     text-decoration: none;
-    padding: 0.5rem 1rem;
     color: white;
-   
 }
 .primary-link{
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
-    
+    padding: 0.5rem 1rem;
+
 }
 
 .secondary-link{
     background-color: white;
-    border-radius: 0.5rem;
+    border-radius: 0.5rem ;
     border:1px solid var(--primary-color);
     color: var(--primary-color);
+    padding: 0.5rem 1rem;
 
 }
 
@@ -98,7 +97,7 @@ body{
 }
 
 .main .main-img{
-    max-width: 600px;
+    max-width:auto;
     display: block;
     margin: auto;
 }
