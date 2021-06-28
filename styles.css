@@ -22,7 +22,7 @@ body{
 }
 
 .container{
-    padding-left: 0rem ;
+    padding-left: 1rem ;
     padding-right: 1rem;
     text-align: center;
 
@@ -31,7 +31,9 @@ body{
 .container-center{
     max-width: 600px;
     margin: auto;
-    
+    padding-left: 1rem ;
+    padding-right: 1rem;
+    text-align: center;
 }
 
 /* links */
@@ -39,6 +41,8 @@ body{
     box-sizing: border-box;
     text-decoration: none;
     color: white;
+    
+    
 }
 .primary-link{
     background-color: var(--primary-color);
