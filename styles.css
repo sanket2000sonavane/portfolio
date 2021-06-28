@@ -6,6 +6,9 @@
     --off-w:#F3F4F6;
 
 }
+html,body{
+    overflow-x: hidden;
+}
 
 
 hr{
