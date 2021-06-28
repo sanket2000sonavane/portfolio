@@ -11,9 +11,7 @@ html,body{
 }
 
 img{
-     max-width: 600px;
-     padding-left: 2rem;
-     padding-right: 2rem;
+     max-width: 300px;
 }
 hr{
     padding: 1rem 0rem ;
