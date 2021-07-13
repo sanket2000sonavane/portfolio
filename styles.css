@@ -141,3 +141,12 @@ body{
     padding: 0px;
 }
 
+/****shadow***/
+.shadow-glow{
+  display: inline-block;
+  transition: 0 0 10px rgba(0,0,0,0.7);
+}
+
+.shadow-glow:hover{
+    box-shadow: 0 0 10px rgba(0,0,0,0.7);
+}
